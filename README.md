@@ -1,5 +1,5 @@
 # SQL queries
 
-For information about our project, see our [README repo](https://github.com/GP2020-Sierra/README)
+For information about our project, see our [README](https://gp2020-sierra.github.io/README/)
 
 [License](/LICENSE)
